@@ -38,7 +38,3 @@ Sou um profissional dedicado e criativo, apaixonado por tecnologia, inovação e
 ---
 
 > “Transformar ideias em experiências é minha missão.”
-
----
-
-Se quiser, posso ajudar a transformar isso num README.md para o GitHub, com markdown pronto para uso, ou ainda sugerir melhorias no layout e formatação. Quer?
