@@ -41,3 +41,4 @@ Também desenvolvo **projetos esotéricos e subliminares** voltados à transform
 
 > “Cada linha de código é uma nova evolução — e cada projeto, uma jornada para transformar o impossível em realidade.” ⚡
 
+[![Pikachu](https://img.pokemondb.net/sprites/scarlet-violet/normal/pikachu-original-cap.png)](https://pokemondb.net/pokedex/pikachu)
