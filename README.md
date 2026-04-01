@@ -13,9 +13,9 @@ Também desenvolvo **projetos esotéricos e subliminares** voltados à transform
 
 ## 🧠 Habilidades Técnicas
 
-* **Programação:** Python, JavaScript, Lua, C#, Java (básico), SQL, Flask, HTML/CSS
+* **Programação:** Python, JavaScript, Lua, C#, Java (básico), SQL, Flask, HTML/CSS, .NET
 * **Ferramentas:** Unity, Blender, RPG Developer Bakin, VSCode, Git
-* **Banco de Dados:** SQLite, PostgreSQL
+* **Banco de Dados:** SQLite, PostgreSQL, SQL
 * **Design e Edição:** Photoshop, Canva, UI/UX Design
 * **Outras Áreas:** Astrologia, Biokinesis, Lei da Atração, PNL
 
