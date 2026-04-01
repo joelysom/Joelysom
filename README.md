@@ -33,9 +33,10 @@ Também desenvolvo **projetos esotéricos e subliminares** voltados à transform
 
 ## 📫 Contato
 
-* 📧 Email: [joelysom@example.com](mailto:joelysom@example.com)
+* 🤖 Portfolio: [JoelysomPokemon.com](https://meuportifoliopokemonjoelysonv3.vercel.app/)
+* 📧 Email: [joelysom@example.com](mailto:joelysomalcantaradasilva@gmail.com)
 * 🐙 GitHub: [github.com/joelysom](https://github.com/joelysom)
-* 💼 LinkedIn: [linkedin.com/in/joelysom](https://linkedin.com/in/joelysom)
+* 💼 LinkedIn: [linkedin.com/in/joelysom](https://www.linkedin.com/in/joelysom-alcantara-da-silva-00353a338/)
 
 ---
 
